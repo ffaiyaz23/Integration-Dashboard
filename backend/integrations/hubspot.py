@@ -17,8 +17,8 @@ from redis_client import get_value_redis, delete_key_redis, add_key_value_redis
 
 
 # OAuth Configuration Variables
-client_id = 'f3d88cf8-bc1d-4200-84ac-9f7e3e413cba'
-client_secret = 'd8097064-97dc-415f-87fc-f86960d46a93'
+client_id = 'XXXX'
+client_secret = 'XXXX'
 redirect_uri = 'http://localhost:8000/integrations/hubspot/oauth2callback'
 token_url = 'https://api.hubapi.com/oauth/v1/token'
 
