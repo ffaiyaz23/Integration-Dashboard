@@ -49,3 +49,6 @@ This project is a multi-integration dashboard that enables users to connect with
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+For any questions or issues, please contact faiz23011faiyaz@gmail.com.
